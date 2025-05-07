@@ -1,3 +1,5 @@
 Esto es un cambio.
 
 Añado un cambio.
+
+Esto es otro cambio.
